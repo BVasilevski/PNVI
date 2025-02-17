@@ -1,0 +1,38 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://hcsgjpotx072"
+path.s3tc="res://.godot/imported/treasure_chest_4.png-cd46df9b951cefe8d628d4dc7b204cbc.s3tc.ctex"
+metadata={
+"imported_formats": ["s3tc_bptc"],
+"vram_texture": true
+}
+generator_parameters={
+"md5": "36d7290e1344e38dfa3e76902c7cb367"
+}
+
+[deps]
+
+source_file="res://models/assets/3d/mannequiny/treasure_chest_4.png"
+dest_files=["res://.godot/imported/treasure_chest_4.png-cd46df9b951cefe8d628d4dc7b204cbc.s3tc.ctex"]
+
+[params]
+
+compress/mode=2
+compress/high_quality=false
+compress/lossy_quality=0.7
+compress/hdr_compression=1
+compress/normal_map=0
+compress/channel_pack=0
+mipmaps/generate=true
+mipmaps/limit=-1
+roughness/mode=8
+roughness/src_normal="res://models/assets/3d/mannequiny/treasure_chest_5.png"
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/normal_map_invert_y=false
+process/hdr_as_srgb=false
+process/hdr_clamp_exposure=false
+process/size_limit=0
+detect_3d/compress_to=0

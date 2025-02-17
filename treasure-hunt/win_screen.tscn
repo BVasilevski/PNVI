@@ -1,0 +1,23 @@
+[gd_scene load_steps=2 format=3 uid="uid://cms8t47mlcq7t"]
+
+[sub_resource type="LabelSettings" id="LabelSettings_t2xf2"]
+font_size = 50
+
+[node name="win_screen" type="Node2D"]
+
+[node name="ColorRect" type="ColorRect" parent="."]
+custom_minimum_size = Vector2(1920, 1080)
+offset_right = 40.0
+offset_bottom = 40.0
+color = Color(0, 0, 0, 1)
+
+[node name="Label" type="Label" parent="ColorRect"]
+layout_mode = 0
+offset_left = 450.0
+offset_top = 250.0
+offset_right = 777.0
+offset_bottom = 319.0
+text = "Победивте!"
+label_settings = SubResource("LabelSettings_t2xf2")
+horizontal_alignment = 1
+vertical_alignment = 1
